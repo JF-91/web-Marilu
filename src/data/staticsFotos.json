@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "name": "marilu",
+        "img": "/imgs/marilu.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "michaska",
+        "img": "/imgs/michaska.jpeg"
+    },
+    {
+        "id": "3",
+        "name": "random",
+        "img": "/imgs/random.jpeg"
+    },
+    {
+        "id":"4",
+        "name": "logo",
+        "img": "/imgs/logo.jpeg"
+    }
+
+
+]
+    
